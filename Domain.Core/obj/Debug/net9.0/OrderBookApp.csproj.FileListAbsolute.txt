@@ -1,0 +1,14 @@
+/home/doofenschmirtz/Documents/TBC/dotnet/OrderBookApp/OrderBookApp/bin/Debug/net9.0/OrderBookApp
+/home/doofenschmirtz/Documents/TBC/dotnet/OrderBookApp/OrderBookApp/bin/Debug/net9.0/OrderBookApp.deps.json
+/home/doofenschmirtz/Documents/TBC/dotnet/OrderBookApp/OrderBookApp/bin/Debug/net9.0/OrderBookApp.runtimeconfig.json
+/home/doofenschmirtz/Documents/TBC/dotnet/OrderBookApp/OrderBookApp/bin/Debug/net9.0/OrderBookApp.dll
+/home/doofenschmirtz/Documents/TBC/dotnet/OrderBookApp/OrderBookApp/bin/Debug/net9.0/OrderBookApp.pdb
+/home/doofenschmirtz/Documents/TBC/dotnet/OrderBookApp/OrderBookApp/obj/Debug/net9.0/OrderBookApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/doofenschmirtz/Documents/TBC/dotnet/OrderBookApp/OrderBookApp/obj/Debug/net9.0/OrderBookApp.AssemblyInfoInputs.cache
+/home/doofenschmirtz/Documents/TBC/dotnet/OrderBookApp/OrderBookApp/obj/Debug/net9.0/OrderBookApp.AssemblyInfo.cs
+/home/doofenschmirtz/Documents/TBC/dotnet/OrderBookApp/OrderBookApp/obj/Debug/net9.0/OrderBookApp.csproj.CoreCompileInputs.cache
+/home/doofenschmirtz/Documents/TBC/dotnet/OrderBookApp/OrderBookApp/obj/Debug/net9.0/OrderBookApp.dll
+/home/doofenschmirtz/Documents/TBC/dotnet/OrderBookApp/OrderBookApp/obj/Debug/net9.0/refint/OrderBookApp.dll
+/home/doofenschmirtz/Documents/TBC/dotnet/OrderBookApp/OrderBookApp/obj/Debug/net9.0/OrderBookApp.pdb
+/home/doofenschmirtz/Documents/TBC/dotnet/OrderBookApp/OrderBookApp/obj/Debug/net9.0/OrderBookApp.genruntimeconfig.cache
+/home/doofenschmirtz/Documents/TBC/dotnet/OrderBookApp/OrderBookApp/obj/Debug/net9.0/ref/OrderBookApp.dll
